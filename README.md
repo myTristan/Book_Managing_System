@@ -1,12 +1,12 @@
-# BEV Simulator
+# Book Managing System
 Author<br>
-[Zhang Haimingyue](https://myTristan.github.io/),
+[Zhang Haimingyue](https://myTristan.github.io/)
 <br>
 
 ## Introduction
-- This repository provides a MATLAB app that can be used in the simulation of EV.  
-- Install the app and use!  
-- The app was developed on MATLAB2023b.
+- This repository provides a book managing system
+- The system was developed on cpp.
+- To get more information, you can read the 'Book_Managing_System.pdf'
 
 ## Contact
-If there are any shortcomings in the app, please feel free to email me. I welcome your corrections.
+If there are any shortcomings in the code, please feel free to email me. I welcome your corrections.
