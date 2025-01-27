@@ -1,6 +1,6 @@
 # Book Managing System
 Author<br>
-[Zhang Haimingyue](https://myTristan.github.io/)
+[Haimingyue Zhang](https://myTristan.github.io/)
 <br>
 
 ## Introduction
